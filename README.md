@@ -1,0 +1,2 @@
+# JankenUseVision
+Visionを用いたリアルタイム映像内の手の検出を用いたアプリ
